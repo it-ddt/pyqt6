@@ -1,0 +1,1 @@
+pyuic6 -o output.py -x input.ui
